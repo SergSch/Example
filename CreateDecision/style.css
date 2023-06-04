@@ -286,6 +286,7 @@ h2 {
 }
 .projects_item {
   display: flex;
+  justify-content: space-around;
   gap: 30px;
   margin-bottom: 50px;
 }
