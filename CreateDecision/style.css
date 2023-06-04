@@ -290,10 +290,7 @@ h2 {
   gap: 30px;
   margin-bottom: 50px;
 }
-.projects_item > img {
-  width: 215px;
-  aspect-ratio: 1;
-}
+
 .about {
   min-height: 570px;
   background-image: url('img/last_bg.jpg');
