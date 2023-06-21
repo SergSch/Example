@@ -157,6 +157,8 @@ nav {
 .reason_wrap {
   display: flex;
   align-items: center;
+  justify-content: center;
+  margin-top: 35px;
 }
 .reasons_img {
   width: 116px;
